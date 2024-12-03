@@ -7,3 +7,8 @@ Tests for Login functionality:
 - Successful login with valid credentials
 - Error handling for invalid credentials (username/password)
 - UI validation for the login page
+
+# How to Run
+- Clone the Repository
+- Install Dependencies: npm install
+- Open Cypress Test Runner: npx cypress open
